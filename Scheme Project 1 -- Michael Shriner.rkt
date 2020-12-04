@@ -1,7 +1,7 @@
 ;Scheme Assignment
-;Programming Languages
-;Michael Shriner
-;November 15, 2020
+;Skidmore College, Programming Languages, Professor Michael Eckmann
+;Author: Michael Shriner
+;Date: November 15, 2020
 
 
 ;PROBLEM: 1a)
